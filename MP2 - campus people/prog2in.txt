@@ -1,0 +1,71 @@
+Computer Science Department
+McNair Hall 526
+U
+Christopher,Rich,      123456789, 06/17/1988    ,    336-404-5454
+Computer Science, 51,3.52
+COMP365, MATH201, GEEN325
+G
+Joey, Dooda, 123456789, 06/17/1988, 336-888-5454
+Computer Science,  19  , 3.72
+COMP365, MATH201, GEEN325
+Generic Register Allocation on CIS Architectures, Software Engineering, RA
+S
+Mo, Greene,950123456,9/19/1994,301-322-4099
+11/11/2011,PT, Music
+Assistant Director of Bands, Luke James,Advanced
+F
+Jane,Smith,67523456, 4/26/1994, 937-559-6993
+6/25/2011, FT,Computer Science
+Assistant, Web Design
+COMP365, GEEN165, COMP180
+F
+Jamie, Foxx,45504532,12/16/1985, 757-946-7654
+05/21/2005, FT, Science
+Assistant, Research and Development
+CHEM131 , MATH 105 , PHYS 202
+F
+Condoleezza, Rice, 45504532, 11/14/1954,359-456-0987
+4/16/2005, FT, Political Science
+Full, International Relations
+POSC765, ECON440
+F
+Leeroy, Jenkins,50487156,10/15/1992,328-529-4857
+4/23/2008,FT,Computer Engineering
+Associate,Network Security
+ECEN265,GEEN200,COMP324
+F
+Bruce, Wayne,45504532,9/26/1993,339-456-0987
+8/17/2009,FT,Computer Science
+Associate,Computing
+COMP165,COMP280,GEEN365
+G
+Dia,Indiana  ,950271495   ,10/23/1994,704-598-3598
+Computational Science and Engineering,26,3.8
+MATH401, GEEN365, COMP423, COMP265
+Efficient Parallel Execution of Sequence Similarity Analysis Via dynamic Load Balancing, Artificial Intelligence,TA
+G
+Johnny,Graham,756489234,5/12/93, 915-345-1000
+Philosophy,24,3.75
+Phil640,engl310,hist300,Phil440
+The ethical consequences of modern technology, World Religions, RA
+U
+Chuck, Norris, 950344798,9/26/1942  , 401-244-5789
+Physical Theropy, 20, 3.2
+COMP400, MATH640,HIST 500
+U
+Johnny,Bravo,1234561,1/26/1983,336-795-2371
+Human Anatomy ,20,1.80
+BIO101,MATH131,ENGL101,LIBS162
+G
+Sussie,Carter,85720471,8/12/1992,455-323-6674
+Spanish,15,3.56
+SPAN 200,ENGL 101,CHEM 107,COMP 280
+Multicore super processing on an Intel machine,Information technology,TA
+U
+George,Foreman,59615687,9/26/1967,399-456-0987
+Physics,35,3.56
+GEEN 165,MATH 431,ENG 101,HIST 300
+S
+Joe, Jones,050123809,6/11/1984,301-302-4009
+3/16/2015,PT, Student Union
+Assistant Director of Student Affairs, Barbera Julias,Advanced
